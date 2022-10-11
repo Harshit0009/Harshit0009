@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harshit0009 or better <b>Harshit</b>
-- 👀 I’m interested in android development 
-- 🌱 I’m currently learning android development and data structers. (yes together😣)
-- 💞️ I’m looking to collaborate on small minor beginner projects
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Web development and data structers. (yes together😣)
+- 💞️ I’m looking to collaborate on some web projects.
 - 📫 Mail me on = byvirtue08@gmail.com
 
 <!---
